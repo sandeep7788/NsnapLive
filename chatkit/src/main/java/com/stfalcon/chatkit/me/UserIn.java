@@ -9,7 +9,7 @@ import java.util.Date;
  */
 
 public class UserIn  implements IUser {
-    String nameL, statue, avatar, phone, lastOn,id,lastmessage,lastsender,lastsenderava;
+    String name, statue, avatar, phone, lastOn,id,lastmessage,lastsender,lastsenderava;
     boolean onstatue,typing,audio,screen;
     long timeC,messDate;
     int noOfUnread;
@@ -19,21 +19,21 @@ public class UserIn  implements IUser {
     }
 
 
-    public UserIn(String id, String nameL, String avatar,boolean screen) {
-        this.nameL = nameL;
+    public UserIn(String id, String name, String avatar,boolean screen) {
+        this.name = name;
         this.avatar = avatar;
         this.id = id;
         this.screen = screen;
     }
     public UserIn(String id, String avatar,boolean screen) {
-        this.nameL = nameL;
+        this.name = name;
         this.avatar = avatar;
         this.id = id;
         this.screen = screen;
     }
 
-    public UserIn(String nameL, String statue, String avatar, String phone, String id, String lastmessage, String lastsender, String lastsenderava, long messDate, int noOfUnread,boolean screen) {
-        this.nameL = nameL;
+    public UserIn(String name, String statue, String avatar, String phone, String id, String lastmessage, String lastsender, String lastsenderava, long messDate, int noOfUnread,boolean screen) {
+        this.name = name;
         this.statue = statue;
         this.avatar = avatar;
         this.phone = phone;
@@ -95,16 +95,9 @@ public class UserIn  implements IUser {
     }
 
     public void setName(String name) {
-        this.nameL = name;
+        this.name = name;
     }
 
-    public String getNameL() {
-        return nameL;
-    }
-
-    public void setNameL(String nameL) {
-        this.nameL = nameL;
-    }
 
     public String getStatue() {
         return statue;
@@ -163,7 +156,7 @@ public class UserIn  implements IUser {
 
     @Override
     public String getName() {
-        return nameL;
+        return name;
     }
 
     @Override

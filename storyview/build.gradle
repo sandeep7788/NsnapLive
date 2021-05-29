@@ -1,13 +1,13 @@
 apply plugin: 'com.android.library'
 group='com.github.bxute'
 android {
-    compileSdkVersion 27
+    compileSdkVersion 30
 
 
 
     defaultConfig {
         minSdkVersion 15
-        targetSdkVersion 27
+        targetSdkVersion 30
         versionCode 2
         versionName "1.1"
 
@@ -19,6 +19,8 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debugg {
         }
     }
 

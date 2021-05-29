@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#03a9f4</color>
-    <color name="colorPrimaryDark">#0288d1</color>
-    <color name="colorAccent">#0288d1</color>
+<!--    <color name="colorPrimary">#03a9f4</color>-->
+<!--    <color name="colorPrimaryDark">#0288d1</color>-->
+<!--    <color name="colorAccent">#0288d1</color>-->
+
+    <color name="colorPrimary"> #FF9900 </color>
+    <color name="colorPrimaryDark"> #FF9900 </color>
+    <color name="colorAccent"> #FF9900 </color>
+
     <color name="black_overlay">#66000000</color>
     <color name="green">#2ecc71</color>
     <color name="red">#ea2027</color>
@@ -12,10 +17,10 @@
     <color name="white">#FFFFFF</color>
     <color name="transparent">#00000000</color>
     <color name="gradStart">#19AA8B</color>
-    <color name="gradStop">#23A7D8</color>
+    <color name="gradStop"> #f57f17 </color>
 <!--Photo picker colors-->
-    <color name="colorPrimaryPix">#03a9f4</color>
-    <color name="colorPrimaryLightPix">#8003a9f4</color>
+    <color name="colorPrimaryPix"> #f57f17 </color>
+    <color name="colorPrimaryLightPix"> #f57f17 </color>
 
 
     <color name="grey">#cecece</color>
@@ -23,25 +28,25 @@
     <color name="dark_gray_unread">#1b1c1d</color>
     <color name="mess_time">#aeaeae</color>
     <color name="dark_grey2">#a3a3a3</color>
-    <color name="colorPrimaryDark2awy">#016fab</color>
+    <color name="colorPrimaryDark2awy"> #f57f17 </color>
     <color name="mid_grey">#606060</color>
     <color name="light_mid_grey">#a3a3a3</color>
 
 
 
-    <color name="black">#000000</color>
-    <color name="blue_color_picker">#0066FF</color>
+    <color name="black">#17202a</color>
+    <color name="blue_color_picker"> #f57f17 </color>
     <color name="brown_color_picker">#AF593E</color>
     <color name="green_color_picker">#01A368</color>
     <color name="orange_color_picker">#FF861F</color>
     <color name="red_color_picker">#ED0A3F</color>
     <color name="red_orange_color_picker">#FF3F34</color>
-    <color name="sky_blue_color_picker">#76D7EA</color>
+    <color name="sky_blue_color_picker"> #f4d03f </color>
     <color name="violet_color_picker">#8359A3</color>
     <color name="yellow_color_picker">#FBE870</color>
     <color name="yellow_green_color_picker">#C5E17A</color>
     <color name="tool_bg">#151414</color>
-
+    <color name="redd">#e74c3c</color>
 
 
 </resources>
