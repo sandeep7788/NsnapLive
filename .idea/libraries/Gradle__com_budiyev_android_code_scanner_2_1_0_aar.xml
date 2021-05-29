@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.budiyev.android:code-scanner:2.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f50ea1dde5b4324b88acde9fcb86742d/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3085a9605a8a9079cda2ce9c7846c7cd/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbe1d422a72fa508d2412c787f066e73/code-scanner-2.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f50ea1dde5b4324b88acde9fcb86742d/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f50ea1dde5b4324b88acde9fcb86742d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f50ea1dde5b4324b88acde9fcb86742d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3085a9605a8a9079cda2ce9c7846c7cd/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3085a9605a8a9079cda2ce9c7846c7cd/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3085a9605a8a9079cda2ce9c7846c7cd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbe1d422a72fa508d2412c787f066e73/code-scanner-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbe1d422a72fa508d2412c787f066e73/code-scanner-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbe1d422a72fa508d2412c787f066e73/code-scanner-2.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.budiyev.android/code-scanner/2.1.0/50b384a1ffe3410a467ba6b3e6a3e958ccaeefe1/code-scanner-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.budiyev.android/code-scanner/2.1.0/ef5085691e7e1b7df451210b4a9a48095872c9e9/code-scanner-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: it.auron:mecard-parser:1.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b08cbbe5cf01d688736b8f703aa231a5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b08cbbe5cf01d688736b8f703aa231a5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b08cbbe5cf01d688736b8f703aa231a5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e520f13dfe8d61d85541150b951b5070/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e520f13dfe8d61d85541150b951b5070/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e520f13dfe8d61d85541150b951b5070/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6108467d271491512054045898956f5/mecard-parser-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6108467d271491512054045898956f5/mecard-parser-1.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6108467d271491512054045898956f5/mecard-parser-1.1.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.auron/mecard-parser/1.1.3/9e52ce24f8fe6f31dd33c780e8626b777062007a/mecard-parser-1.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.auron/mecard-parser/1.1.3/e194638f295d5ab4a29d2ab072826ef26c24452c/mecard-parser-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

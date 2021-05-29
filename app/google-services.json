@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892383604237",
+    "firebase_url": "https://snaplive-b31aa-default-rtdb.firebaseio.com",
+    "project_id": "snaplive-b31aa",
+    "storage_bucket": "snaplive-b31aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892383604237:android:4189c6608f112fc1f5af44",
+        "android_client_info": {
+          "package_name": "chatroom.snap.snaplive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892383604237-to2i61jqdjg5lemg8geavgblsp6h2bhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chatroom.snap.snaplive",
+            "certificate_hash": "fb3c5745dbb394d6e87fc61fc65b4384ec8a5a5a"
+          }
+        },
+        {
+          "client_id": "892383604237-k7bup4vlfqa1cmmg3iqb3bsagljv3v82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa-hLqdTTU39UgtQGHWTBdKNzzkgzrSag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892383604237-k7bup4vlfqa1cmmg3iqb3bsagljv3v82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.neestell:mediapicker:1.2.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9c71fa6da28eb994e620b2be381d5a5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9c71fa6da28eb994e620b2be381d5a5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9c71fa6da28eb994e620b2be381d5a5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f46795eae17f7608cf0cdd7e302db89/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f46795eae17f7608cf0cdd7e302db89/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f46795eae17f7608cf0cdd7e302db89/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd813f5eb9075ac4d528f8a9a9b5d0e8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd813f5eb9075ac4d528f8a9a9b5d0e8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd813f5eb9075ac4d528f8a9a9b5d0e8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76bca4bee2cf5ee30ea8f178977aaef0/jetified-mediapicker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76bca4bee2cf5ee30ea8f178977aaef0/jetified-mediapicker-1.2.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76bca4bee2cf5ee30ea8f178977aaef0/jetified-mediapicker-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21a549c83d4b52bf7a21c7cd83dcdf84/jetified-mediapicker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21a549c83d4b52bf7a21c7cd83dcdf84/jetified-mediapicker-1.2.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21a549c83d4b52bf7a21c7cd83dcdf84/jetified-mediapicker-1.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.neestell/mediapicker/1.2.2/38c788e561c58c0518cc15d63b9758782f8220af/mediapicker-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.neestell/mediapicker/1.2.2/2ffe22973811a70f06fec70a69f5f6250df38dac/mediapicker-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

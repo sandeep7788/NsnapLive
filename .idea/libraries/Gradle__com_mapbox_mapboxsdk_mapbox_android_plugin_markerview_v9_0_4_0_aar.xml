@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/761f97598b2d984ec86349f70086dc0f/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/761f97598b2d984ec86349f70086dc0f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/761f97598b2d984ec86349f70086dc0f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c76c9a2b155dd0409eafb0547b7c8b4a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c76c9a2b155dd0409eafb0547b7c8b4a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c76c9a2b155dd0409eafb0547b7c8b4a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9337eb8f48452e0af4a837d2052429b9/mapbox-android-plugin-markerview-v9-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9337eb8f48452e0af4a837d2052429b9/mapbox-android-plugin-markerview-v9-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9337eb8f48452e0af4a837d2052429b9/mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-plugin-markerview-v9/0.4.0/914dd2ba0abcb7bc99d9d414ea9fec67b795fe2b/mapbox-android-plugin-markerview-v9-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

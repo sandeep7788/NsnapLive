@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.tonnyl:light:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b532040b9ba02f98580348ab84851e6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b532040b9ba02f98580348ab84851e6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b532040b9ba02f98580348ab84851e6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1163a4d0629eead18c178de4f25ef1a9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1163a4d0629eead18c178de4f25ef1a9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1163a4d0629eead18c178de4f25ef1a9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd35974f7b49543b4c87f440d149edf5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd35974f7b49543b4c87f440d149edf5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd35974f7b49543b4c87f440d149edf5/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/612b6c0b189ece2a56439a4a7dade2fe/jetified-light-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/612b6c0b189ece2a56439a4a7dade2fe/jetified-light-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/612b6c0b189ece2a56439a4a7dade2fe/jetified-light-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15c05d3286da4b24417ccd66c849aead/jetified-light-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15c05d3286da4b24417ccd66c849aead/jetified-light-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15c05d3286da4b24417ccd66c849aead/jetified-light-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.tonnyl/light/1.0.0/e5ac97f0afee324d7e38d955c82343b64adf72fa/light-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.tonnyl/light/1.0.0/b2c9204cb0aadffe5f7ed9453cefa09e8cace579/light-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

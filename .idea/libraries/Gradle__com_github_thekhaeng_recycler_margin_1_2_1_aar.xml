@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.thekhaeng:recycler-margin:1.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99b96e40db84c7c22b61678d4ff36556/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99b96e40db84c7c22b61678d4ff36556/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99b96e40db84c7c22b61678d4ff36556/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3548c98a693f80d0d5848db5a93d7c14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3548c98a693f80d0d5848db5a93d7c14/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3548c98a693f80d0d5848db5a93d7c14/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31a10361ff2aaf492c977ff2c2ac088e/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31a10361ff2aaf492c977ff2c2ac088e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31a10361ff2aaf492c977ff2c2ac088e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/881825955ea30475f110acc4fa8fcb99/jetified-recycler-margin-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/881825955ea30475f110acc4fa8fcb99/jetified-recycler-margin-1.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/881825955ea30475f110acc4fa8fcb99/jetified-recycler-margin-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61c3319ead24bef05c9766c50883e5e7/jetified-recycler-margin-1.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61c3319ead24bef05c9766c50883e5e7/jetified-recycler-margin-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/61c3319ead24bef05c9766c50883e5e7/jetified-recycler-margin-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.thekhaeng/recycler-margin/1.2.1/c5f9a4df2d52e4ebc65d03f89e8e008eba9948cb/recycler-margin-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.thekhaeng/recycler-margin/1.2.1/6fe3c68d7e09bef02e4738dfae367093fee131b/recycler-margin-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

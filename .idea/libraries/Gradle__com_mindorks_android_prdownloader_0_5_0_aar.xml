@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mindorks.android:prdownloader:0.5.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78f46462ddcdb4f23959715e9deeab1a/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78f46462ddcdb4f23959715e9deeab1a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78f46462ddcdb4f23959715e9deeab1a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ae7af12b4879c9b9496e032ac472c2e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ae7af12b4879c9b9496e032ac472c2e/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ae7af12b4879c9b9496e032ac472c2e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0035d9e1633683b4aabd3f60a5245bb4/prdownloader-0.5.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0035d9e1633683b4aabd3f60a5245bb4/prdownloader-0.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0035d9e1633683b4aabd3f60a5245bb4/prdownloader-0.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mindorks.android/prdownloader/0.5.0/86430fffa77d1e85a52e9ca286047475f532ff99/prdownloader-0.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mindorks.android/prdownloader/0.5.0/b5695dd01b9da353e4a387bae3b22af8ab4abd/prdownloader-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.crashlytics.sdk.android:crashlytics:2.10.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2025e8ed51f7468a8eb86046af563bb6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2025e8ed51f7468a8eb86046af563bb6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2025e8ed51f7468a8eb86046af563bb6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e61c4ecdcf12ba4e2190b9d4c3e4ced/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e61c4ecdcf12ba4e2190b9d4c3e4ced/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e61c4ecdcf12ba4e2190b9d4c3e4ced/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865cec2f8b55fc4f39d3283d9a0b9463/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865cec2f8b55fc4f39d3283d9a0b9463/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865cec2f8b55fc4f39d3283d9a0b9463/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81834692c30f3050b5828d07f81f82e6/jetified-crashlytics-2.10.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81834692c30f3050b5828d07f81f82e6/jetified-crashlytics-2.10.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81834692c30f3050b5828d07f81f82e6/jetified-crashlytics-2.10.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80c79ce9f1bb354abc22dfc66221fc50/jetified-crashlytics-2.10.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80c79ce9f1bb354abc22dfc66221fc50/jetified-crashlytics-2.10.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80c79ce9f1bb354abc22dfc66221fc50/jetified-crashlytics-2.10.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

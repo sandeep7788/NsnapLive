@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jaiselrahman:FilePicker:1.2.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d40c132f284438c2e79e7e8a29f788e/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddc6897360ae608f1d3c34380cb9551b/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3a23943d289a914ff3ebe97b7ec3fcc/FilePicker-1.2.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d40c132f284438c2e79e7e8a29f788e/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d40c132f284438c2e79e7e8a29f788e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d40c132f284438c2e79e7e8a29f788e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddc6897360ae608f1d3c34380cb9551b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddc6897360ae608f1d3c34380cb9551b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ddc6897360ae608f1d3c34380cb9551b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3a23943d289a914ff3ebe97b7ec3fcc/FilePicker-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3a23943d289a914ff3ebe97b7ec3fcc/FilePicker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3a23943d289a914ff3ebe97b7ec3fcc/FilePicker-1.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jaiselrahman/FilePicker/1.2.2/5f5149609e07bc705568cdf5b716421efe95950d/FilePicker-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

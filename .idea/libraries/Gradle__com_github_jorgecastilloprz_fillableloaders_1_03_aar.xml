@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jorgecastilloprz:fillableloaders:1.03@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba628f5fcb18bbe90a00280ee6c84400/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba628f5fcb18bbe90a00280ee6c84400/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba628f5fcb18bbe90a00280ee6c84400/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4df7a3378ae1229305c006a7959eca4d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4df7a3378ae1229305c006a7959eca4d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4df7a3378ae1229305c006a7959eca4d/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c50b6b53fac5b2bd5294561ad9c4966b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c50b6b53fac5b2bd5294561ad9c4966b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c50b6b53fac5b2bd5294561ad9c4966b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2bee21d22f04a684f221cdad36d44169/jetified-fillableloaders-1.03/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2bee21d22f04a684f221cdad36d44169/jetified-fillableloaders-1.03/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2bee21d22f04a684f221cdad36d44169/jetified-fillableloaders-1.03/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60c7f7cab46bc7282aff3856174ee467/jetified-fillableloaders-1.03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60c7f7cab46bc7282aff3856174ee467/jetified-fillableloaders-1.03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60c7f7cab46bc7282aff3856174ee467/jetified-fillableloaders-1.03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jorgecastilloprz/fillableloaders/1.03/fb6d70ca2084cfb241ba3cc9930ebfba15184b50/fillableloaders-1.03-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jorgecastilloprz/fillableloaders/1.03/a319e0e83e343d8fd973ca2aa8df9dfffc4aff22/fillableloaders-1.03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

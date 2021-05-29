@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="Gradle: com.andrognito.patternlockview:patternlockview:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/933c91b8cc8e3c06d929ac4182b2dccd/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c9080526799a41ce9579ae4a1e946d0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/970dceec5b5f1b677f00681be3888a77/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0ba8f972e86aba72a9cc3cb3f205855/jetified-patternlockview-1.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a232c6bc39385741da0179d390d1af6b/jetified-patternlockview-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/933c91b8cc8e3c06d929ac4182b2dccd/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/933c91b8cc8e3c06d929ac4182b2dccd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/933c91b8cc8e3c06d929ac4182b2dccd/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c9080526799a41ce9579ae4a1e946d0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c9080526799a41ce9579ae4a1e946d0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c9080526799a41ce9579ae4a1e946d0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/970dceec5b5f1b677f00681be3888a77/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/970dceec5b5f1b677f00681be3888a77/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/970dceec5b5f1b677f00681be3888a77/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0ba8f972e86aba72a9cc3cb3f205855/jetified-patternlockview-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0ba8f972e86aba72a9cc3cb3f205855/jetified-patternlockview-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0ba8f972e86aba72a9cc3cb3f205855/jetified-patternlockview-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a232c6bc39385741da0179d390d1af6b/jetified-patternlockview-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a232c6bc39385741da0179d390d1af6b/jetified-patternlockview-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a232c6bc39385741da0179d390d1af6b/jetified-patternlockview-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.andrognito.patternlockview/patternlockview/1.0.0/b9ff2b969b97532fc830d416f48aa5bf5ae683a1/patternlockview-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.andrognito.patternlockview/patternlockview/1.0.0/c7de6c90a141e1a03c9db6693079e6fa795b24a0/patternlockview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

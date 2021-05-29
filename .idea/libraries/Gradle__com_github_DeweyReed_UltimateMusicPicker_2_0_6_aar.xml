@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.DeweyReed:UltimateMusicPicker:2.0.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abf61c12ffcbf4fbfec311ebf01ad338/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abf61c12ffcbf4fbfec311ebf01ad338/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abf61c12ffcbf4fbfec311ebf01ad338/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdbdbec15843e928b59c4fe0704090fb/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdbdbec15843e928b59c4fe0704090fb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdbdbec15843e928b59c4fe0704090fb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/62b5f56e1e3db38b6d7f200e35b1bd5c/UltimateMusicPicker-2.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/62b5f56e1e3db38b6d7f200e35b1bd5c/UltimateMusicPicker-2.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/62b5f56e1e3db38b6d7f200e35b1bd5c/UltimateMusicPicker-2.0.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.DeweyReed/UltimateMusicPicker/2.0.6/92069d4ff4159ecaf220ad229aea9d46007048f4/UltimateMusicPicker-2.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

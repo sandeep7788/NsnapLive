@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.safetysystemtechnology:android-shake-detector:v1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a98f3ec9439c1885f06b2a8b41d3ef46/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a98f3ec9439c1885f06b2a8b41d3ef46/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a98f3ec9439c1885f06b2a8b41d3ef46/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83918e606eeebc6e45cbd3e7f83c4b69/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83918e606eeebc6e45cbd3e7f83c4b69/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83918e606eeebc6e45cbd3e7f83c4b69/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d12faf3c8b1839719bd02862c803d528/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d12faf3c8b1839719bd02862c803d528/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d12faf3c8b1839719bd02862c803d528/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68b0ce523ec73f02f1561b682c037f84/jetified-android-shake-detector-v1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68b0ce523ec73f02f1561b682c037f84/jetified-android-shake-detector-v1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68b0ce523ec73f02f1561b682c037f84/jetified-android-shake-detector-v1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfd79d9371c9d38826d36f793956e7b4/jetified-android-shake-detector-v1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfd79d9371c9d38826d36f793956e7b4/jetified-android-shake-detector-v1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfd79d9371c9d38826d36f793956e7b4/jetified-android-shake-detector-v1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

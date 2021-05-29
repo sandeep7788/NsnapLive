@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.myinnos:AppFontChanger:1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20502443ce57254c38d6c60f00e86581/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20502443ce57254c38d6c60f00e86581/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20502443ce57254c38d6c60f00e86581/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d337f7966632c958f41f43775c60cac/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d337f7966632c958f41f43775c60cac/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d337f7966632c958f41f43775c60cac/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfb6a5644db576832e96f533b61c2ee8/AppFontChanger-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfb6a5644db576832e96f533b61c2ee8/AppFontChanger-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfb6a5644db576832e96f533b61c2ee8/AppFontChanger-1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.myinnos/AppFontChanger/1.0/eb2c17c4e936d03e5c393b8b47b1c7886ced85a2/AppFontChanger-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.myinnos/AppFontChanger/1.0/798bda85f262e000fdcaf07344b6c4ac0d572846/AppFontChanger-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

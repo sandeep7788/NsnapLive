@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.4ert:audioview:1.4.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff25b3dc02791471f8d511c3231646ff/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff25b3dc02791471f8d511c3231646ff/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff25b3dc02791471f8d511c3231646ff/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d74b6b4caace2f8179b6a451cf37261f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d74b6b4caace2f8179b6a451cf37261f/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d74b6b4caace2f8179b6a451cf37261f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f75d3066039f6ff3f84f7a6157d48396/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f75d3066039f6ff3f84f7a6157d48396/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f75d3066039f6ff3f84f7a6157d48396/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93f98c8576e40c446dfd6cfb7ab93a50/jetified-audioview-1.4.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93f98c8576e40c446dfd6cfb7ab93a50/jetified-audioview-1.4.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93f98c8576e40c446dfd6cfb7ab93a50/jetified-audioview-1.4.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4026fb23617f2a2fd3809f3e90769662/jetified-audioview-1.4.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4026fb23617f2a2fd3809f3e90769662/jetified-audioview-1.4.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4026fb23617f2a2fd3809f3e90769662/jetified-audioview-1.4.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.4ert/audioview/1.4.5/80a6d9fdcfb2106035bdb4ff68dcc57e3de7e75a/audioview-1.4.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.4ert/audioview/1.4.5/947afe3d5607acf7f653a04c9f4531c6165d9ed0/audioview-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

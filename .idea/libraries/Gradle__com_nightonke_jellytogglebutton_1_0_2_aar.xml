@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nightonke:jellytogglebutton:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf9e79b80b9d64d72ed3417771fcc621/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf9e79b80b9d64d72ed3417771fcc621/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf9e79b80b9d64d72ed3417771fcc621/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c41c1cefc251ba5ba91e5d86f1290e06/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c41c1cefc251ba5ba91e5d86f1290e06/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c41c1cefc251ba5ba91e5d86f1290e06/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865c0c24c074ebdaf4ce962ba47dc8b9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865c0c24c074ebdaf4ce962ba47dc8b9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865c0c24c074ebdaf4ce962ba47dc8b9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69a59e2d4d44480a5abed9d91a630f86/jetified-jellytogglebutton-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69a59e2d4d44480a5abed9d91a630f86/jetified-jellytogglebutton-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69a59e2d4d44480a5abed9d91a630f86/jetified-jellytogglebutton-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/430f4c053d08446a02c09b4031792291/jetified-jellytogglebutton-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/430f4c053d08446a02c09b4031792291/jetified-jellytogglebutton-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/430f4c053d08446a02c09b4031792291/jetified-jellytogglebutton-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nightonke/jellytogglebutton/1.0.2/bef44af6daabeb8e01f1224e6c707c4952a4d1d4/jellytogglebutton-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nightonke/jellytogglebutton/1.0.2/7052a7206cd648a34e9410c8e245bc4fd012cb/jellytogglebutton-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

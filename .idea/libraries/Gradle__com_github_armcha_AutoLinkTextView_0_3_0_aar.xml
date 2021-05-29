@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.armcha:AutoLinkTextView:0.3.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f51aa38906c06253d2eeef90f65f0936/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f51aa38906c06253d2eeef90f65f0936/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f51aa38906c06253d2eeef90f65f0936/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d8b429d6855bb99ec96341b42843465/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d8b429d6855bb99ec96341b42843465/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d8b429d6855bb99ec96341b42843465/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0571d624861ccde350a96bfb9ae4f6b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0571d624861ccde350a96bfb9ae4f6b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0571d624861ccde350a96bfb9ae4f6b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ac6a13514fcb7608252cd0abbd1b156/jetified-AutoLinkTextView-0.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ac6a13514fcb7608252cd0abbd1b156/jetified-AutoLinkTextView-0.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ac6a13514fcb7608252cd0abbd1b156/jetified-AutoLinkTextView-0.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/238ddec33827370652e3260939a2c98a/jetified-AutoLinkTextView-0.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/238ddec33827370652e3260939a2c98a/jetified-AutoLinkTextView-0.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/238ddec33827370652e3260939a2c98a/jetified-AutoLinkTextView-0.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.armcha/AutoLinkTextView/0.3.0/d70a633657a6461f4f3781034a9619ee41e3fe4b/AutoLinkTextView-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.armcha/AutoLinkTextView/0.3.0/42c0b39be48bafb88651718b782d1f498b258012/AutoLinkTextView-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
